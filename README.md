@@ -2,7 +2,7 @@
 
 The files here provide the details of the Type Ib/c supernova samples used in Chang et al. (2022) [2210.03088].  
   
-Each file lists the Ib/c supernovae overlaped with different IceCube phases (IC40, IC59, IC79, IC86-I, IC86-II~VII), in which each column give the following information of supernovae:  
+Each file lists the Ib/c supernovae overlapped with different IceCube phases (IC40, IC59, IC79, IC86-I, IC86-II~VII), in which each column give the following information of supernovae:  
   
 1st - Name  
 2nd - Maximum brightness time [MJD]  

@@ -1,4 +1,4 @@
-# 2022.10.06
+# 2210.03088
 
 The files here provide the details of the Type Ib/c supernova samples used in Chang et al. (2022) [2210.03088].  
   

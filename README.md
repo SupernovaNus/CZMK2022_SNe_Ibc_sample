@@ -1,4 +1,4 @@
-# arXiv: 2210.03088
+# SNe Ibc samples [arXiv: 2210.03088](https://arxiv.org/abs/2210.03088)
 
 The files here provide the details of the Type Ib/c supernova samples used in [`Chang et al. (2022) [2210.03088]`](https://arxiv.org/abs/2210.03088).  
   
